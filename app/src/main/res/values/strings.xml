@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pasemeprofe</string>
+    <string name="nombre_alumno">Edith Marisol</string>
+    <string name="apellidos">Ramirez Gonzalez </string>
+    <string name="dni">4491440018H</string>
+    <string name="nacimiento">02 / 05 / 2002</string>
+    <string name="sexo">F</string>
+    <string name="validez">09 / 09 / 2029</string>
+    <string name="boton">Mostrar tu DNI</string>
+    <string name="boton2">informacion visible 60 segundos</string>
+
+
+</resources>
